@@ -1,4 +1,4 @@
-# Udemy-Clone
+# UdemyClone
 The Udemy Clone project is a fully responsive front-end website replicating the popular online learning platform. Built using HTML5, CSS3, and JavaScript, the project emphasizes modern design and a smooth user experience. It features an intuitive layout, responsive media queries for all screen sizes, and interactive elements to mimic Udemy’s core interface. The site demonstrates front-end development skills while maintaining fast load times and user-friendly navigation.
 
 Features
